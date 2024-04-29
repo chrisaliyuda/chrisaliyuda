@@ -9,5 +9,5 @@
 
 ## My Stats
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/?username=archd3sai&&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Arch's GitHub Stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/?username=archd3sai&&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Chris's GitHub Stats" />
 </a>
