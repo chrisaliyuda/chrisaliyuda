@@ -1,21 +1,8 @@
 <h1 align="left">Hi!, nice to meet you👋, my name is Chris</h1>
 <h3 align="left">Data Scientist.</h3>
 
-
-
-<p align="left"> <a href="https://twitter.com/vicSomadina" target="blank"><img src="https://img.shields.io/twitter/follow/victor somadina?logo=twitter&style=for-the-badge" alt="victor somadina" /></a> </p>
-
-- 🌱 Staying current in the dynamic field of AI is crucial. Daily learning ensures adaptation to evolving technologies, methodologies, and breakthroughs. Continuous education enhances expertise, fostering innovation and proficiency in navigating the rapidly changing landscape of artificial intelligence.
-
-- 👨‍💻 All of my projects are available at [Portfolio](https://github.com/victorsomadina?tab=repositories)
-
-- 📝 I regularly write articles on [Medium](https://medium.com/@victorSom.)
-
-- 💬 I help beginners get their feet into the field of Data Analysis/Data Science, so I am available to answer questions relating to descriptive and predictive analytics.
-
-- 📫 How to reach me Email: somadinavictor12@gmail.com
-
-- ⚡ Fun fact: Chelsea Fan
+- 🌱 MIT Professional Educator
+- 📫 How to reach me Email: chrisaliyuda@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
