@@ -1,5 +1,8 @@
-<h1 align="left">HiML projects in healthcare, sales analytics, CRM performance work, and ETL pipelines, mostly Python.
-MSc in Analytics and Business Intelligence · MIT Certificate in Data Science and Machine Learning my name is Chris</h1>
+<h1 align="left">Machine learning across healthcare and commercial data.
+Work spans HIV treatment models, pricing analytics, and CRM performance.
+Python, ETL pipelines.
+MSc Analytics & BI · MIT Data Science & ML
+</h1>
 <h3 align="left">Data Scientist.</h3>
 
 - 🌱 
