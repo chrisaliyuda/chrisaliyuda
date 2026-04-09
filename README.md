@@ -1,7 +1,7 @@
 <h1 align="left">Hi!, nice to meet you👋, my name is Chris</h1>
 <h3 align="left">Data Scientist.</h3>
 
-- 🌱 MIT Professional Educator
+- 🌱 
 - 📫 How to reach me Email: chrisaliyuda@gmail.com
 
 ## My Stack
