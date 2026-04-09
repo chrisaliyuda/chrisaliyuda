@@ -1,4 +1,5 @@
-<h1 align="left">Hi!, nice to meet you👋, my name is Chris</h1>
+<h1 align="left">Hi!, ML projects in healthcare, sales analytics, CRM performance work, and ETL pipelines — mostly Python, always trying to answer a real question rather than just demonstrate technique.
+MSc in Analytics and Business Intelligence · MIT 👋, my name is Chris</h1>
 <h3 align="left">Data Scientist.</h3>
 
 - 🌱 
