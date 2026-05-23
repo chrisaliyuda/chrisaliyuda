@@ -3,7 +3,10 @@ My background spans pricing and trading analytics at Sainsbury’s and HF Holida
 I hold an MSc in Analytics and Business Intelligence (Distinction) from the University of Law Business School and a Data Science and Machine Learning certificate from MIT.
 eCommerce Sales Analysis and Customer Behaviour — Segmentation and transaction analysis across an online retail dataset, exploring purchase patterns, customer value distribution, and revenue drivers.
 CRM Sales Performance Dashboard — Quarterly performance tracking across a sales team, translating CRM data into clear operational insight for commercial leadership.
-MSc Analytics & BI · MIT Data Science & MLCustomer Churn and Retention Modelling — Classification model exploring the behavioural and demographic signals that predict attrition, relevant to any commercial context where understanding who leaves shapes retention strategy.
+Customer Churn and Retention Modelling — Classification
+ model exploring the behavioural and demographic 
+signals that predict attrition, relevant to any commercial context where understanding who leaves shapes retention strategy.
+MSc Analytics & BI · MIT Data Science & ML
 </h1>
 <h3 align="left">Data Scientist.</h3>CRM Sales Performance Dashboard — Quarterly performance tracking across a sales team, translating CRM data into clear operational insight for commercial leadership.
 
