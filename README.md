@@ -8,7 +8,13 @@ signals that predict attrition, relevant to any commercial context where underst
 
 MSc Analytics & BI · MIT Data Science & ML
 </h1>
-<h3 align="left">Data Scientist.</h3>CRM Sales Performance Dashboard — Quarterly performance tracking across a sales team, translating CRM data into clear operational insight for commercial leadership.
+<h3 align="left">I work at the intersection of commercial strategy and data, helping organisations understand not just what the numbers say, but what they mean and what to do about it.
+My background spans pricing and trading analytics at Sainsbury’s and HF Holidays, predictive modelling in CDC/PEPFAR-funded health programmes in Nigeria, and commercial strategy consulting. Across all of it, the common thread has been translating messy, complex data into decisions that actually move things forward.
+eCommerce Sales Analysis and Customer Behaviour,Segmentation and transaction analysis across an online retail dataset, exploring purchase patterns, customer value distribution, and revenue drivers.
+CRM Sales Performance Dashboard,Quarterly performance tracking across a sales team, translating CRM data into clear operational insight for commercial leadership.
+Customer Churn and Retention Modelling — Classification
+ model exploring the behav  the behavioural and demographic signals that predict attrition, relevant to any commercial context where understanding who leaves shapes retention strategy
+signals that predict attrition, relevant to any commercial context where understanding who leaves shapes retention strategy..</h3>CRM Sales Performance Dashboard — Quarterly performance tracking across a sales team, translating CRM data into clear operational insight for commercial leadership.
 
 - 🌱 
 - 📫 How to reach me Email: chrisaliyuda@gmail.com
